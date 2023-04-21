@@ -1,0 +1,14 @@
+1.tạo cấu trúc thư mục ok 
+2.tạo các file css và import vào html
+3.thêm reset css vào dự án
+4.thêm jquery và fontawesome CDN
+5.định nghĩa class chung
+6.tạo cấu trúc html
+7.css navbar-brand
+8.css menu
+9.css download
+10.thêm bars và menu responsive và css cả 2
+11.css cho phần content
+12.Xử lý responsive mobile first
+13.xử lý click vào thanh bar
+14.Xử lý ẩn khi scroll và resize  
